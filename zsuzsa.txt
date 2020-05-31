@@ -1,0 +1,11 @@
+szia
+exit
+end
+close
+d:
+dir
+exit
+
+
+
+
