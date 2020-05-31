@@ -1,11 +1,1 @@
-szia
-exit
-end
-close
-d:
-dir
-exit
-
-
-
-
+Drága zsuzsikám az alapok fontosabbak a loholásnál!
